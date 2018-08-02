@@ -27,6 +27,7 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * @author Strong Liu
+ * test commit
  */
 public class C3P0ConnectionProviderTest extends BaseCoreFunctionalTestCase {
 
